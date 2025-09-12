@@ -9,7 +9,7 @@
 using namespace std;
 
 int main() {
-    //utilizar la funcion s(rand) para tener un seed value
+    //utilizar la funcion srand para tener un seed value
     srand(time(0));
 
     //variables para los numeros aleatorios
